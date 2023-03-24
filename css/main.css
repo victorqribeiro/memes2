@@ -1,0 +1,49 @@
+html, body {
+  margin: 0;
+  padding: 0;
+  height: 100%;
+}
+
+a {
+  text-decoration: none;
+  color: orange;
+}
+
+body {
+  background-color: #111;
+  color: #EEE;
+  font-family: Arial;
+}
+
+#main {
+  padding: 2em;
+}
+
+#buttons {
+  width: 100%;
+  text-align: center;
+}
+
+#next {
+  font-size: 2em;
+  margin: 0 auto;
+}
+
+img, picture, video {
+  max-width: 100%;
+  height: auto;
+}
+
+.green-1{color:#9cbb38}
+.green-2{color:#839f28}
+.green-3{color:#394713}
+.green-4{color:#3d7539}
+.grey-1{color:#9b9b9b}
+.grey-2{color:#797a7f}
+.grey-3{color:#555558}
+.black{color:#222}
+.white{color:#fff}
+.red-1{color:#a94442}
+.red-2{color:#e62f3c}
+.blue-1{color:#2e9b94}
+.orange-1{color:#ffa200}
